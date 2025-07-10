@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o João Victor
 
-<!--
-**J-VictorDev/J-VictorDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (TADS) — 3º Semestre  
+💻 Focado em Desenvolvimento Backend com Java  
+🚀 Em constante evolução, seguindo a [Roadmap Backend](https://roadmap.sh/backend)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📘 Sobre meus repositórios
+
+Aqui você encontrará:
+
+✅ **Diário de Estudo** — Anotações teóricas sobre o que venho aprendendo (ex: POO, SQL, SO, redes...)  
+✅ **Exercícios e Projetos em Java** — Códigos que estou desenvolvendo para praticar backend  
+✅ **Exploração de novas linguagens e ferramentas** — Sempre que testar algo novo, vai aparecer por aqui!
+
+---
+
+## 🧠 Atualmente estudando:
+
+- Lógica de programação e estruturas de dados  
+- Programação orientada a objetos em Java  
+- Banco de Dados (SQL, modelagem)  
+- Fundamentos de Sistemas Operacionais  
+- Conceitos web: HTTP, APIs, REST 

@@ -11,7 +11,7 @@
 Aqui você encontrará:
 
 ✅ **Diário de Estudo** — Anotações teóricas sobre o que venho aprendendo (ex: POO, SQL, SO, redes...)  
-✅ **Exercícios e Projetos** — Códigos que estou desenvolvendo para praticar backend e também exercícios que fiz na faculdade.
+✅ **Exercícios e Projetos** — Códigos que estou desenvolvendo para praticar backend e também exercícios que fiz na faculdade.   
 ✅ **Exploração de novas linguagens e ferramentas** — Sempre que testar algo novo, vai aparecer por aqui!
 
 ---

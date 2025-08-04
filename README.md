@@ -11,14 +11,14 @@
 Aqui você encontrará:
 
 ✅ **Diário de Estudo** — Anotações teóricas sobre o que venho aprendendo (ex: POO, SQL, SO, redes...)  
-✅ **Exercícios e Projetos em Java** — Códigos que estou desenvolvendo para praticar backend  
+✅ **Exercícios e Projetos em Java e da Faculdade** — Códigos que estou desenvolvendo para praticar backend e também exercícios que fiz na faculdade.
 ✅ **Exploração de novas linguagens e ferramentas** — Sempre que testar algo novo, vai aparecer por aqui!
 
 ---
 
 ## 🧠 Atualmente estudando:
 
-- Lógica de programação e estruturas de dados  
+- Lógica de programação 
 - Programação orientada a objetos em Java  
 - Banco de Dados (SQL, modelagem)  
 - Fundamentos de Sistemas Operacionais  

@@ -19,7 +19,7 @@ Aqui você encontrará:
 ## 🧠 Atualmente estudando:
 
 - Lógica de programação 
-- Programação orientada a objetos em Java  
-- Banco de Dados (SQL, modelagem)  
+- SpringBoot no desenvolvimento de APIRestful. 
+- Banco de Dados (MongoDB)  
 - Fundamentos de Sistemas Operacionais  
 - Conceitos web: HTTP, APIs, REST 

@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o João Victor
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (TADS) — 3º Semestre  
-💻 Focado em Desenvolvimento Backend com Java  
+💻 Estudando Backend com Java criando APIs RESTful, Frontend (HTML, Javascript, CSS) dentre outras linguagens...  
 🚀 Em constante evolução, seguindo a [Roadmap Backend](https://roadmap.sh/backend)
 
 ---

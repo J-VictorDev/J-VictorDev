@@ -2,6 +2,7 @@
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (TADS) — 4º Semestre  
 💻 Estudando Backend com Java criando APIs RESTful, Frontend (HTML, Javascript, CSS) Banco de Dados...
+
 🚀 Estudos Em qualidade de Software e testes automatizados.
 
 ---

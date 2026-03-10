@@ -1,8 +1,8 @@
 # 👋 Olá! Eu sou o João Victor
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (TADS) — 3º Semestre  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (TADS) — 4º Semestre  
 💻 Estudando Backend com Java criando APIs RESTful, Frontend (HTML, Javascript, CSS) Banco de Dados...
-🚀 Em constante evolução, seguindo a [Roadmap Backend](https://roadmap.sh/backend)
+🚀 Estudos Em qualidade de Software e testes automatizados.
 
 ---
 
@@ -10,16 +10,18 @@
 
 Aqui você encontrará:
 
-✅ **Diário de Estudo** — Anotações teóricas sobre o que venho aprendendo (ex: POO, SQL, SO, redes...)  
-✅ **Exercícios e Projetos** — Códigos que estou desenvolvendo para praticar backend e também exercícios que fiz na faculdade.   
+✅ **Diário de Estudo** — Anotações teóricas sobre o que venho aprendendo.  
+✅ **Exercícios e Projetos** — Códigos que estou desenvolvendo para praticar desenvolvimento de software e também exercícios que fiz na faculdade.   
 ✅ **Exploração de novas linguagens e ferramentas** — Sempre que testar algo novo, vai aparecer por aqui!
 
 ---
 
-## 🧠 Atualmente estudando:
+## 🧠 Atualmente estudando (4° Semestre em ADS/ iniciado em Janeiro de 2026):
 
-- Lógica de programação 
-- SpringBoot no desenvolvimento de APIRestful. 
-- Banco de Dados (MongoDB)  
-- Fundamentos de Sistemas Operacionais  
-- Conceitos web: HTTP, APIs, REST 
+- Iniciei os estudos em Mobile, usando Android Studio + Java.
+- Desenvolvimento de Aplicações (CRUD para uma aplicação web - Rastreador de Hábitos com gamificação visual)
+- Modelagem de Software Orientado à Objetos - Imprescindível para desenvolvimento do software, evitando bugs ou erros de regra de negócio.
+- Novas tecnologias - estudando e explorando virtualização e cloud.
+- Redes de computadores - Estudos sobre todas as camadas do modelo OSI, Redes e Infraestrutura.
+
+
